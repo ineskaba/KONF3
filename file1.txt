@@ -1,2 +1,4 @@
 creating file from initial folder
-changed something else
+<<<<<<< HEAD
+finding i middle ground with my changes
+>>>>>>> 67a3c52223432c384ec86a87895eb0e679ee4be7
